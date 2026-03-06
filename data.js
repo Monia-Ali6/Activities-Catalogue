@@ -154,7 +154,7 @@ const teachingData = {
                     week: "#3: Soft C and G",
                     title: "Soft C and G Sounds",
                     description: "Sort the soft c and g sounds into their correct categories using a train sorting chart.",
-                    img: "activity/softcg.jpg"
+                    img: "activity/Softcg.jpg"
                 },
                 {
                     icon: "🧸",
@@ -256,7 +256,7 @@ const teachingData = {
                     week: "Strategy #1",
                     title: "Mix, Freeze, and Pair",
                     description: "Students mix and freeze to find a partner. Once they find a partner, they read a word together. If they read it correctly, they can high five and find another partner.",
-                    img: "activity/mix,freeze,and pair.jpg"
+                    img: "activity/mix,freeze,andpair.jpg"
                 },
                 {
                     icon: "✨",
@@ -270,21 +270,21 @@ const teachingData = {
                     week: "Strategy #3",
                     title: "Compare & Contrast Key Word Sort",
                     description: "Students sort the key words of compare and contrast. They use a Venn diagram to organize their thoughts and then sort the key words into the correct sections.",
-                    img: "activity/Compare and Contrast2.jpg"
+                    img: "activity/compareandcontrast2.jpg"
                 },
                 {
                     icon: "✨",
                     week: "Strategy #4",
                     title: "Find My Partner",
                     description: "Shuffling numbers in pairs is a fun way to play! Each student gets a number, and they have to find their friend with the matching number. Once they find their partner, they can do the activity together.",
-                    img: "activity/Find my partner.jpg"
+                    img: "activity/FindMyPartner.jpg"
                 },
                 {
                     icon: "✨",
                     week: "Strategy #5",
                     title: "Author's Point of View",
                     description: "Students read a POV written on colorful cards and then sort them into categories of first person, second person, and third person using a sorting chart.",
-                    img: "activity/POV.PNG"
+                    img: "activity/POV.png"
                 },
                 {
                     icon: "✨",
@@ -318,7 +318,7 @@ const teachingData = {
                     week: "HFW #1",
                     title: "HFW Reading",
                     description: "A small heart is drawn above the irregular part of the word to signify that this part is \"tricky\" and must be remembered by heart.",
-                    img: "activity/heart strategy.jpg"
+                    img: "activity/HeartStrategy.jpg"
                 },
                 {
                     icon: "❤️",
@@ -365,10 +365,4 @@ const teachingData = {
             ]
         }
     }
-
 }
-
-
-
-
-
