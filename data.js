@@ -365,7 +365,4 @@ const teachingData = {
             ]
         }
     }
-
 }
-
-
