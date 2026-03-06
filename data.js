@@ -85,7 +85,7 @@ const teachingData = {
                     week: "#2: Nouns",
                     title: "Singular and Plural Nouns",
                     description: "Pick a block that has a singular noun written on it and write the plural form of that noun on the board. Then, stack the blocks to build a tower!",
-                    img: "activity/sing&plural.jpg"
+                    img: "activity/Sing&Plural.jpg"
                 },
                 {
                     icon: "🎧",
@@ -367,6 +367,7 @@ const teachingData = {
     }
 
 }
+
 
 
 
