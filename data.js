@@ -119,7 +119,7 @@ const teachingData = {
                     icon: "🔍",
                     week: "#5.2: Nouns",
                     title: "Irregular Plural Nouns",
-                    description: "Each student will get a card with an irregular plural noun and they have to find their partner with the matching singular noun. Once they find their partner, they can read the word together and then find another partner!",
+                    description: "Each student will get a card with an irregular plural noun and they have to find their partner with the matching singular noun. Once they find their partner, they can read the word together!",
                     img: "activity/irregularnoun.png"
                 },
                 {
@@ -365,4 +365,5 @@ const teachingData = {
             ]
         }
     }
+
 }
