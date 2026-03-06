@@ -263,14 +263,14 @@ const teachingData = {
                     week: "Strategy #2",
                     title: "Compare & Contrast",
                     description: "Compare and Contrast two topics by looking at their similarities and differences. They use a hula hoop as a Venn diagram outside to organize their thoughts.",
-                    img: "activity/compare and contrast.jpg"
+                    img: "activity/Compare and Contrast.jpg"
                 },
                 {
                     icon: "✨",
                     week: "Strategy #3",
                     title: "Compare & Contrast Key Word Sort",
                     description: "Students sort the key words of compare and contrast. They use a Venn diagram to organize their thoughts and then sort the key words into the correct sections.",
-                    img: "activity/compareandcontrast2.jpg"
+                    img: "activity/compareand contrast2.jpg"
                 },
                 {
                     icon: "✨",
@@ -367,3 +367,4 @@ const teachingData = {
     }
 
 }
+
