@@ -270,7 +270,7 @@ const teachingData = {
                     week: "Strategy #3",
                     title: "Compare & Contrast Key Word Sort",
                     description: "Students sort the key words of compare and contrast. They use a Venn diagram to organize their thoughts and then sort the key words into the correct sections.",
-                    img: "activity/compareand contrast2.jpg"
+                    img: "activity/Compare and Contrast2.jpg"
                 },
                 {
                     icon: "✨",
@@ -367,4 +367,5 @@ const teachingData = {
     }
 
 }
+
 
