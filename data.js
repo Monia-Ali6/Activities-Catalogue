@@ -64,7 +64,7 @@ const teachingData = {
                     week: "#1: Short E",
                     title: "Short e and ea",
                     description: "Build the short 'E' word puzzle and blend it using a blending chart.",
-                    img: "activity/short e, ea.png"
+                    img: "activity/Short e, ea.png"
                 },
                 {
                     icon: "📜",
@@ -367,4 +367,5 @@ const teachingData = {
     }
 
 }
+
 
