@@ -1,6 +1,6 @@
 # Activities Catalogue
 
-**Video Demo:** 
+**Video Demo:** https://youtu.be/-d3QpAd2LGE?si=aCoMCqc9s6x0R7r5
 
 ## Description
 
